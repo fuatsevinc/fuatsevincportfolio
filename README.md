@@ -23,7 +23,10 @@ Project is created with:
 * Bootstrap 4
 * Python 3.10
 * Jazzmin 2.5
-* Django 4.0
+*asgiref==3.5.2
+*Django==4.1.1
+*Pillow==9.2.0
+*sqlparse==0.4.2
 
 ### Features
 1> Authentication, Authorization <br>
